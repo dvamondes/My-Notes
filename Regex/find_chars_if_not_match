@@ -1,3 +1,0 @@
-ENCONTRAR TUDO O QUE NAO FOR XXXXXX
-^(?!^GET http).*$\n
-^(?!^\[URLs).*$\n
