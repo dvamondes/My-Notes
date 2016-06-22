@@ -21,7 +21,8 @@ $ git clone [URL] .
 
 - Update
 ```
-if get conflits $ git reset --hard origin/master
+if get conflits 
+$ git reset --hard origin/master
 $ git fetch --all
 $ git pull origin master
 ```
